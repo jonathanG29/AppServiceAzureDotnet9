@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cmqMeHrd2Qc=",
+  "dgSpecHash": "Eh1eNcBN0dM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jonat\\Desktop\\AppServiceAzureDotnet9\\AppServiceAzureDotnet9\\AppServiceAzureDotnet9.csproj",
+  "projectFilePath": "C:\\Users\\jonat\\desktop\\AppServiceAzureDotnet9\\AppServiceAzureDotnet9\\AppServiceAzureDotnet9.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jonat\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
     "C:\\Users\\jonat\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"

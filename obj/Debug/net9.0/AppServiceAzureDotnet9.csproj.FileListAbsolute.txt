@@ -31,3 +31,4 @@ C:\Users\jonat\desktop\AppServiceAzureDotnet9\AppServiceAzureDotnet9\obj\Debug\n
 C:\Users\jonat\desktop\AppServiceAzureDotnet9\AppServiceAzureDotnet9\obj\Debug\net9.0\AppServiceAzureDotnet9.pdb
 C:\Users\jonat\desktop\AppServiceAzureDotnet9\AppServiceAzureDotnet9\obj\Debug\net9.0\AppServiceAzureDotnet9.genruntimeconfig.cache
 C:\Users\jonat\desktop\AppServiceAzureDotnet9\AppServiceAzureDotnet9\obj\Debug\net9.0\ref\AppServiceAzureDotnet9.dll
+C:\Users\jonat\desktop\AppServiceAzureDotnet9\AppServiceAzureDotnet9\obj\Debug\net9.0\AppServiceAzureDotnet9.sourcelink.json
